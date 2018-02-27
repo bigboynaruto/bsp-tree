@@ -14,4 +14,4 @@ cmake && make
 
 [CGAL]: http://www.cgal.org
 [CMake]: http://www.cmake.org
-[Holmes3D datasets]: http://www.holmes3d.net/graphics/offfiles/
+[Holmes3D files set]: http://www.holmes3d.net/graphics/offfiles/

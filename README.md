@@ -10,7 +10,7 @@ cmake && make
 ```
 
 ## Issues
-[  ] [CGAL]'s polyhedron convex decomposition might have intersecting regions, which are not accepted by this algorithm. The folder *data/* contains successfully tested *.off* files, which can be used as input. These files were taken from [CGAL] examples and [Holmes3D files set].
+- [ ] [CGAL]'s polyhedron convex decomposition might have intersecting regions, which are not accepted by this algorithm. The folder *data/* contains successfully tested *.off* files, which can be used as input. These files were taken from [CGAL] examples and [Holmes3D files set].
 
 [CGAL]: http://www.cgal.org
 [CMake]: http://www.cmake.org
